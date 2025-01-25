@@ -14,7 +14,7 @@ function Footer() {
            </div>
            <div className="-ml-[700px]">
               <p className="text-sm text-gray-600 -mb-96">
-                  &copy; 2025 Biz Basket. All rights reserved.
+                  &copy; 2025 BizBasket. All rights reserved.
               </p>
                 </div>
             </div>
