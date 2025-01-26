@@ -6,7 +6,7 @@ function Logo() {
       <img
         src={bizblogs}
         alt="Logo"
-        style={{ width: '180px', height: '220px', paddingTop: '40px' }} // Change the size here
+        style={{ width: '160px', height: '200px', paddingTop: '40px' }} // Change the size here
         onError={(e) => {
           e.target.onerror = null; // Prevents infinite loop if fallback image also fails
         }}
